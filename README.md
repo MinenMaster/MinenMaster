@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @MinenMaster
 - 👀 I’m interested in coding Minecraft Bots/APIs
 - 🌱 I’m currently learning python 3 with some small projects
-- 📫 You can rach me at ---
+- 📫 You can reach me at ---
