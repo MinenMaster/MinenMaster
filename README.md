@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @MinenMaster
-- 👀 I’m interested in coding Minecraft Bots/APIs and learning more new languages!
+- 👀 I’m interested in coding Minecraft Bots/APIs/Clients and learning more new languages!
 - 🌱 I’m currently learning Python 3, Java, C# and some other languages with some small projects. 
