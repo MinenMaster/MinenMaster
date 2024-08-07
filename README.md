@@ -1,6 +1,8 @@
 - 👋 Hi, I'm @Dom, a young, enthusiastic software engineer. 
 - 👀 I’m interested in gaming and learning new programming languages! 
-- 🌱 I’m currently learning Python 3, Java, C# and some other languages with some small projects.
+- 🌱 I’m currently learning [TypeScript](https://www.typescriptlang.org/) and [Next.js](https://nextjs.org/)
+
+You can learn more about me on my Website: [dominikmeister.com](https://dominikmeister.com/)
 
 ---
 
