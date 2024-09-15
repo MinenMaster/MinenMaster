@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @Dom, a young, enthusiastic software engineer. 
+- 👋 Hi, I'm @Dominik Meister, a young, enthusiastic software engineer. 
 - 👀 I’m interested in gaming and learning new programming languages! 
 - 🌱 I’m currently learning [TypeScript](https://www.typescriptlang.org/) and [Next.js](https://nextjs.org/)
 
